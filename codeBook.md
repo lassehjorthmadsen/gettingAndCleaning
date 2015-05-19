@@ -1,10 +1,10 @@
 #Code Book
 
 `Group.1`  
-        Name of activity. Values: "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"  
+Name of activity. Values: "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"  
   
 `Group.2`  
-        Id number for subject. Values: Integer in range 1-30  
+Id number for subject. Values: Integer in range 1-30  
 
 The following variables are mean values of the original measurement of the same name. "tBodyAcc-mean()-X" is thus the mean value of tBodyAcc-mean() in direction X, over all combinations of activity and subject. All values are real numbers normalized to the inteval between -1 and 1.  
   
