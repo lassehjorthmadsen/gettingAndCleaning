@@ -1,8 +1,7 @@
 #Code Book
 
 Group.1  
-  Name of activity. Values:  
-  "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"  
+  Name of activity. Values: "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"  
   
 Group.2  
   Id number for subject. Values: Integer in range 1-30  
