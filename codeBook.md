@@ -8,7 +8,7 @@
 
 The following variables are mean values of the original measurement of the same name. "tBodyAcc-mean()-X" is thus the mean value of tBodyAcc-mean() in direction X, over all combinations of activity and subject. All values are real numbers normalized to the inteval between -1 and 1.  
   
-tBodyAcc-mean()-X  
+`tBodyAcc-mean()-X  
 tBodyAcc-mean()-Y  
 tBodyAcc-mean()-Z  
 tBodyAcc-std()-X  
@@ -73,4 +73,4 @@ fBodyBodyAccJerkMag-std()
 fBodyBodyGyroMag-mean()  
 fBodyBodyGyroMag-std()  
 fBodyBodyGyroJerkMag-mean()  
-fBodyBodyGyroJerkMag-std()  
+fBodyBodyGyroJerkMag-std()`  
