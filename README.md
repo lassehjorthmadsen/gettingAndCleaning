@@ -1,5 +1,5 @@
 # gettingAndCleaning  
-course project for Getting and Cleaning Data from Coursera  
+Course project for Getting and Cleaning Data from Coursera  
 
 The script run_analysis.R reads the following data files from a subdirectory named "UCI HAR Dataset":  
 * X_train.txt: containing x-values for training 
