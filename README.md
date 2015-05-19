@@ -19,6 +19,6 @@ Part 3 uses factor() and data from activity_labels.txt to create descriptive act
 
 Part 4 uses names() and data from features.txt to labels the data set with descriptive variable names.
 
-Part 5 creates a tidy dataset by using aggregate() over activity and subject, thus creating a mean values of all measurement for each combination of activity and subject. The column Group.1 contains the name of the activity, Group.2 contains the id number for the subject.  
+Part 5 creates a tidy dataset by using aggregate() over activity and subject, thus creating mean values of all measurement for each combination of activity and subject. The column Group.1 contains the name of the activity, Group.2 contains the id number for the subject.  
 
 Finally, theres a write.table() function to save the tidy dataset under the name tidyData.txt.
